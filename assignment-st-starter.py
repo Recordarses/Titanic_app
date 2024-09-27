@@ -31,4 +31,4 @@ ax[2].set_xticklabels(['Fare'])
 ax[2].set_xlabel('PClass = 3')
 
 # a sample diagram is shown below
-
+st.pyplot(fig)
